@@ -21,4 +21,5 @@ Git fetch command is used to fetch all changes from the remote repository to loc
 Rebase is a Git action that allows users to mwrite the commits from one branch of Git to another. Command for it "Bash" it carries out the interactive rebase.
 
 ## Explain in simple terms Git cherry-pick and the command for it
-Git cherry-pick allows you to apply a specific commit from one branch onto another without merging the entire branch. Command for it  *<commit-hash>*
+Git cherry-pick allows you to apply a specific commit from one branch onto another without merging the entire branch. Command for it  *
+"<commit-hash>"
